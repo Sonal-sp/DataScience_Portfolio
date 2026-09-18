@@ -256,7 +256,7 @@ ds_portfolio/
 ---
 
 ## 📄 License & Attribution
-This repository is open-sourced under the [MIT License](https://opensource.org/licenses/MIT). You are free to adapt, build upon, and cite this work for academic, professional, and commercial portfolio demonstrations.
+This repository is open-sourced under the [MIT License]. You are free to adapt, build upon, and cite this work for academic, professional, and commercial portfolio demonstrations.
 
 ---
 
