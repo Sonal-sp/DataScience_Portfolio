@@ -252,11 +252,14 @@ ds_portfolio/
 ├── 19_logistics_rl_fleet_dispatch/              # Gymnasium RL Vehicle Routing
 └── 20_nlp_intent_ood_detection/                 # Intent Routing & Mahalanobis OOD
 ```
+## Author 
+Sonal Shailesh Parmar 
+Computer Engineering | Data Science | Artificial Intelligence 
 
 ---
 
 ## 📄 License & Attribution
-This repository is open-sourced under the [MIT License]. You are free to adapt, build upon, and cite this work for academic, professional, and commercial portfolio demonstrations.
+This repository is open-sourced under the [MIT License](LICENSE). You are free to adapt, build upon, and cite this work for academic, professional, and commercial portfolio demonstrations.
 
 ---
 
