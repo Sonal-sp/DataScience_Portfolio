@@ -1,0 +1,1201 @@
+query_text,intent_label,is_ood
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Tell me a funny joke about robots,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Tell me a funny joke about robots,Out_Of_Distribution,1
+I forgot my login PIN and can't log in,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Please help me reset my account password,Account_Access,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+What is the capital of France?,Out_Of_Distribution,1
+How do I bake sourdough bread?,Out_Of_Distribution,1
+Please help me reset my account password,Account_Access,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+What is the capital of France?,Out_Of_Distribution,1
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I forgot my login PIN and can't log in,Account_Access,0
+Who won the World Cup in 1998?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+Why was I billed twice for this transaction?,Dispute_Charge,0
+I forgot my login PIN and can't log in,Account_Access,0
+How do I bake sourdough bread?,Out_Of_Distribution,1
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
+Why was I billed twice for this transaction?,Dispute_Charge,0
+What is the current exchange rate for EUR to USD?,Exchange_Rates,0
+Can you convert dollars to pounds?,Exchange_Rates,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+I need to dispute an unauthorized charge on my card,Dispute_Charge,0
+What is the capital of France?,Out_Of_Distribution,1
