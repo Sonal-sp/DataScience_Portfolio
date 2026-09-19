@@ -31,9 +31,9 @@ This portfolio includes a **bespoke, developer-crafted Web Visualizer** located 
 - **Algorithm Deconstructions:** Mathematical formulations, step-by-step logic, and comparative multi-model benchmark tables.
 - **Zero Build Friction:** Opens directly in your browser or can be served locally with:
   ```bash
-  python -m http.server 3000 --directory portfolio_website
+  python -m http.server 3000 --bind 127.0.0.1 --directory portfolio_website
   ```
-  *(Then open `http://localhost:3000` in your browser)*
+  *(Then open `http://127.0.0.1:3000` in your browser)*
 
 ## 📌 Executive Overview
 

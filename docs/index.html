@@ -6,6 +6,11 @@
   <title>Enterprise Data Science Portfolio | 20 Production-Grade Systems</title>
   <meta name="description" content="Interactive developer-grade visualizer for 20 end-to-end data science projects across Healthcare, Fintech, E-Commerce, Vision, NLP, and GenAI." />
 
+  <!-- Security Hardening & Content Security Policy (CSP) -->
+  <meta http-equiv="X-Content-Type-Options" content="nosniff" />
+  <meta name="referrer" content="strict-origin-when-cross-origin" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net; style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; font-src 'self' https://fonts.gstatic.com; img-src 'self' data: https:; connect-src 'self'; object-src 'none'; base-uri 'self'; form-action 'self';" />
+
   <!-- Developer Typography -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,8 +19,12 @@
   <!-- Design System CSS -->
   <link rel="stylesheet" href="css/styles.css" />
 
-  <!-- Chart.js CDN -->
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <!-- Chart.js with Subresource Integrity (SRI) -->
+  <script 
+    src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js" 
+    integrity="sha384-T/4KgSWuZEPozpPz7rnnp/5lDSnpY1VPJCojf1S81uTHS1E38qgLfMgVsAeRCWc4" 
+    crossorigin="anonymous">
+  </script>
 </head>
 <body>
   <div class="app-container">

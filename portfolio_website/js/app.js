@@ -30,19 +30,29 @@ const App = {
   handleHashRoute() {
     const hash = window.location.hash;
     if (hash.startsWith('#project-')) {
-      const id = parseInt(hash.replace('#project-', ''), 10);
-      const project = PROJECTS_DATA.find(p => p.id === id);
-      if (project) {
-        this.selectProject(id, false);
-        return;
+      const rawId = hash.replace('#project-', '');
+      if (/^\d{1,2}$/.test(rawId)) {
+        const id = parseInt(rawId, 10);
+        if (id >= 1 && id <= PROJECTS_DATA.length) {
+          const project = PROJECTS_DATA.find(p => p.id === id);
+          if (project) {
+            this.selectProject(id, false);
+            return;
+          }
+        }
       }
     }
     this.showDashboard(false);
   },
 
   selectProject(id, updateHash = true) {
-    this.currentProjectId = id;
-    const project = PROJECTS_DATA.find(p => p.id === id);
+    const safeId = parseInt(id, 10);
+    if (!Number.isInteger(safeId) || safeId < 1 || safeId > PROJECTS_DATA.length) {
+      this.showDashboard(updateHash);
+      return;
+    }
+    this.currentProjectId = safeId;
+    const project = PROJECTS_DATA.find(p => p.id === safeId);
     if (!project) return;
 
     if (updateHash) {

@@ -34,7 +34,7 @@ const ProjectDetailComponent = {
             </div>
 
             <div style="display: flex; gap: 0.5rem;">
-              <a href="../${project.notebookPath}" target="_blank" class="btn-github">
+              <a href="../${project.notebookPath}" target="_blank" rel="noopener noreferrer" class="btn-github">
                 <span>📓</span> Open Jupyter Notebook
               </a>
             </div>

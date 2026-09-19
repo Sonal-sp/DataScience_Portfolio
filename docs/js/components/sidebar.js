@@ -52,9 +52,20 @@ const SidebarComponent = {
     });
 
     if (filtered.length === 0) {
-      html = `<div style="padding: 1.5rem; text-align: center; color: #71717a; font-size: 0.85rem;">No projects found matching "${searchQuery}"</div>`;
+      const safeQuery = this.escapeHTML(searchQuery);
+      html = `<div style="padding: 1.5rem; text-align: center; color: #71717a; font-size: 0.85rem;">No projects found matching "${safeQuery}"</div>`;
     }
 
     container.innerHTML = html;
+  },
+
+  escapeHTML(str) {
+    if (!str) return "";
+    return String(str)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
   }
 };

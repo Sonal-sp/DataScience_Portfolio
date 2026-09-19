@@ -1,0 +1,68 @@
+# ==============================================================================
+# Git Ignore - Data Science Portfolio
+# Prevents accidental credential leaks, bytecode, virtual environments & cache
+# ==============================================================================
+
+# Secrets, Environment Variables & API Credentials
+.env
+.env.*
+*.env
+*.key
+*.pem
+*.cert
+*.pfx
+secrets.json
+credentials.json
+client_secret*.json
+
+# Python Bytecode & Compilation Caches
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter Notebook Checkpoints & State
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*-checkpoint.ipynb
+
+# Machine Learning & Deep Learning Model Weights & Large Artefacts
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# OS & Editor Artefacts
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+
+# Temporary Files, Logs & Scratch
+scratch/
+scratch_*/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
