@@ -16,11 +16,24 @@
   <i>Every project features self-contained domain datasets, rigorous cross-validation, asymmetric cost matrices, model explainability (SHAP), and executive decision frameworks.</i>
 </p>
 
-[Browse Projects](#-master-project-catalog) • [Architecture](#-data-science-methodology-framework) • [Quickstart](#-quickstart--reproduction) • [Key Highlights](#-standout-project-spotlights)
+[🌐 Live Interactive Visualizer](./portfolio_website) • [Browse Projects](#-master-project-catalog) • [Architecture](#-data-science-methodology-framework) • [Quickstart](#-quickstart--reproduction) • [Key Highlights](#-standout-project-spotlights)
 
 ---
 
 </div>
+
+## 🌐 Interactive Web Visualizer Dashboard
+
+This portfolio includes a **bespoke, developer-crafted Web Visualizer** located in [`portfolio_website/`](./portfolio_website) (and deployed to [`docs/`](./docs) for GitHub Pages).
+
+- **Interactive Dashboard:** Browse all 20 projects with real-time multi-attribute search and domain filters.
+- **Dynamic Logic Simulators:** Live Decision Threshold sliders ($\tau$) updating Confusion Matrices & asymmetric cost live; Pricing Elasticity response surfaces; Safety Stock inventory buffers; and GNN Graph physics.
+- **Algorithm Deconstructions:** Mathematical formulations, step-by-step logic, and comparative multi-model benchmark tables.
+- **Zero Build Friction:** Opens directly in your browser or can be served locally with:
+  ```bash
+  python -m http.server 3000 --directory portfolio_website
+  ```
+  *(Then open `http://localhost:3000` in your browser)*
 
 ## 📌 Executive Overview
 
