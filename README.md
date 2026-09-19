@@ -265,8 +265,10 @@ ds_portfolio/
 ├── 19_logistics_rl_fleet_dispatch/              # Gymnasium RL Vehicle Routing
 └── 20_nlp_intent_ood_detection/                 # Intent Routing & Mahalanobis OOD
 ```
-## Author 
+## Author
+
 Sonal Shailesh Parmar 
+
 Computer Engineering | Data Science | Artificial Intelligence 
 
 ---
